@@ -20,6 +20,8 @@ The solution was designed to turn operational and sales data into management-foc
 
 ## Interactive Sales Dashboard
 
+![MegaWidget interactive sales dashboard](images/sales-dashboard.png)
+
 Built an interactive Excel sales dashboard using **Pivot Tables, Pivot Charts and slicers** to analyse monthly sales volumes by product, year and postcode area. Users can dynamically filter the dashboard to investigate changes in product and regional performance.
 
 **Key analytical features:**
@@ -32,6 +34,8 @@ Built an interactive Excel sales dashboard using **Pivot Tables, Pivot Charts an
 - Management-focused visual reporting
 
 ## Cash Flow Forecast & Financial Model
+
+![MegaWidget cash-flow forecast and VBA input model](images/cash-flow-vba-model.png)
 
 Developed a cash-flow forecasting model incorporating sales revenue, government grants, advertising expenditure, cost of goods sold and loan repayments.
 
@@ -48,6 +52,8 @@ A **VBA-driven user-input interface** allows business assumptions to be changed 
 The model uses these assumptions to calculate projected monthly cash flow and assess the financial viability of the proposed business plan.
 
 ## Scenario & What-if Analysis
+
+![MegaWidget scenario and what-if analysis](images/scenario-analysis.png)
 
 Performed what-if analysis to evaluate how changes in business assumptions affect projected cash flow and overall financial viability. Alternative scenarios can be compared against the original model to support evidence-based expansion decisions.
 
