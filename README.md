@@ -2,6 +2,10 @@
 
 **Advanced Excel | VBA | Macros | Pivot Tables | Pivot Charts | Financial Modelling | What-if Analysis**
 
+> **Explore the model:** [View / Download the Excel Workbook](./MegaWidget_International_Analytics.xlsm)
+>
+> The workbook is macro-enabled (`.xlsm`). The screenshots below provide a browser-friendly overview without requiring macros to be enabled.
+
 ## Project Overview
 
 Developed an Excel-based analytics and decision-support solution for **MegaWidget International** as part of MSc Business Analytics coursework. The project combines data preparation, interactive sales reporting, financial modelling and scenario analysis to support business expansion decisions.
